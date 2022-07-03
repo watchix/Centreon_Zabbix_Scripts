@@ -7,7 +7,7 @@ $config_centreon_hosts_activated  = "1";  //Search only activated Hosts : 1 (0 f
 $config_centreon_search_alias = "stormshield";  //Search Hosts who contain in alias
 
 $sql_host = "centreon.blabla.com";  //Centreon Host/IP for SQL querry
-$sql_user_read = "read_only_user";  //Centreon SQL user
+$sql_user_read = "read_only_user";  //Centreon SQL user (read-only is better :-) )
 $sql_pass_read = "xxxxx";  //Centreon SQL password
 $nom_base = "centreon";  //Centreon database
 
